@@ -17,6 +17,7 @@ public class PooClase1 {
         Scanner sca = new Scanner(System.in);
         nom=sca.next();
         persona1.setNombre(n);*/
+        System.out.println("Bienvenido a la Tierra Facu : te queremos !!!");
 
     }
     
